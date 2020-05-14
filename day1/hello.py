@@ -3,6 +3,7 @@
 firstname = 'John'
 lastname = 'Doe'
 middlename = 'Smith'
+age = 20
 
 print(firstname)
 print(middlename)
@@ -10,4 +11,4 @@ print(lastname)
 
 
 print(firstname,middlename,lastname)
-print(firstname,' ',middlename,' ',lastname)
+print('Firstname:',firstname,'Middlename:',middlename,'Lastname:',lastname,'Age:',age)
